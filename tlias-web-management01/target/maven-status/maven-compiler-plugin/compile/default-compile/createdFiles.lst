@@ -1,0 +1,15 @@
+com\soukou\mapper\DeptMapper.class
+com\soukou\controller\DeptController.class
+com\soukou\pojo\Dept.class
+com\soukou\service\impl\EmpServiceImpl.class
+com\soukou\TliasWebManagement01Application.class
+com\soukou\service\EmpService.class
+com\soukou\pojo\Emp.class
+com\soukou\pojo\EmpQueryParam.class
+com\soukou\mapper\EmpMapper.class
+com\soukou\service\DeptService.class
+com\soukou\pojo\Result.class
+com\soukou\controller\EmpController.class
+com\soukou\pojo\EmpExpr.class
+com\soukou\pojo\PageResult.class
+com\soukou\service\impl\DeptServiceImpl.class
